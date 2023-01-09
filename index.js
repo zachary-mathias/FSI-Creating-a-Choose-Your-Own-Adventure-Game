@@ -39,17 +39,3 @@ else if(firstAnswer === 'right'){
                 let fourthAnswer = window.prompt('You pick the flower and bring it home, and all marvel at its brilliance. However, over time it fades and eventually crumbles to dust')}
             }}
 
-
-
-
-
-    }
-
-
-
-
-
-
-
-
-}
